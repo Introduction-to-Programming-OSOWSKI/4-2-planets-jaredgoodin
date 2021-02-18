@@ -1,5 +1,4 @@
 def planets(p): 
-
     for i in range(0, len(planet)):
         if p == planet[i]:
             return i + 1
